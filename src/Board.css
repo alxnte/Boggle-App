@@ -1,0 +1,15 @@
+.Board-div {
+  width: 700px;
+  margin: auto;
+  font-size: 40pt;
+  border: 5px solid #2554C7;
+  /*background-color: #398bd4;*/
+  padding: 10px;
+  
+}
+
+.Tile {
+  text-align: center;
+  line-height: 45pt;
+  vertical-align: middle;
+}
